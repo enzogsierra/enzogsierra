@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @enzogsierra
-- 👀 I’m interested in Web desing
-- 🌱 I’m currently learning HTML5, CSS3, JavaScript and Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: https://twitter.com/enzogsierra
+Hola, soy Enzo Sierra.
+
+Actualmente estoy estudiando Ingeniería Informática y aprendiendo Desarrollo Web.
 
 <!---
 enzogsierra/enzogsierra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

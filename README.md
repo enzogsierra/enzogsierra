@@ -17,17 +17,17 @@ Amplio dominio de **Java** implementando **Spring Framework**, con gran experien
 - Mapeo de entidades, RDBMS/ORM
 - Despliegue en AWS
 
-![](https://img.shields.io/badge/Java-333?style=for-the-badge&logo=java) ![](https://img.shields.io/badge/Spring_Framework-333?style=for-the-badge&logo=spring) ![](https://img.shields.io/badge/MySQL-333?style=for-the-badge&logo=mysql&logoColor=eee) ![](https://img.shields.io/badge/JPA/Hibernate-333?style=for-the-badge&logo=hibernate) ![](https://img.shields.io/badge/JUnit5-333?style=for-the-badge&logo=junit5) ![](https://img.shields.io/badge/Security/OAuth2-333?style=for-the-badge&logo=springsecurity) ![](https://img.shields.io/badge/Maven-333?style=for-the-badge&logo=apachemaven)
+![](https://img.shields.io/badge/Java-444?style=for-the-badge&logo=java) ![](https://img.shields.io/badge/Spring_Framework-444?style=for-the-badge&logo=spring) ![](https://img.shields.io/badge/MySQL-444?style=for-the-badge&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/JPA/Hibernate-444?style=for-the-badge&logo=hibernate) ![](https://img.shields.io/badge/JUnit5-444?style=for-the-badge&logo=junit5) ![](https://img.shields.io/badge/Security/OAuth2-444?style=for-the-badge&logo=springsecurity) ![](https://img.shields.io/badge/Maven-444?style=for-the-badge&logo=apachemaven)
 
 ### 🎨 Frontend
 
 Habilidades para crear sitios web completos, aplicando las últimas tendencias para lograr un diseño intuitivo y elegante para los usuarios.
 
-![](https://img.shields.io/badge/HTML-333?style=for-the-badge&logo=html5) ![](https://img.shields.io/badge/Thymeleaf-333?style=for-the-badge&logo=thymeleaf) ![](https://img.shields.io/badge/JavaScript-333?style=for-the-badge&logo=javascript) ![](https://img.shields.io/badge/JQuery-333?style=for-the-badge&logo=jquery) ![](https://img.shields.io/badge/Bootstrap-333?style=for-the-badge&logo=bootstrap) ![](https://img.shields.io/badge/CSS-333?style=for-the-badge&logo=css3) ![](https://img.shields.io/badge/SASS-333?style=for-the-badge&logo=sass) ![](https://img.shields.io/badge/React-333?style=for-the-badge&logo=react)
+![](https://img.shields.io/badge/HTML-444?style=for-the-badge&logo=html5) ![](https://img.shields.io/badge/Thymeleaf-444?style=for-the-badge&logo=thymeleaf) ![](https://img.shields.io/badge/JavaScript-444?style=for-the-badge&logo=javascript) ![](https://img.shields.io/badge/JQuery-444?style=for-the-badge&logo=jquery) ![](https://img.shields.io/badge/Bootstrap-444?style=for-the-badge&logo=bootstrap) ![](https://img.shields.io/badge/CSS-444?style=for-the-badge&logo=css3) ![](https://img.shields.io/badge/SASS-444?style=for-the-badge&logo=sass) ![](https://img.shields.io/badge/React-444?style=for-the-badge&logo=react)
 
 ### 🔨 Herramientas
 
-![](https://img.shields.io/badge/Git-333?style=for-the-badge&logo=git) ![](https://img.shields.io/badge/AWS-333?style=for-the-badge&logo=amazonaws) ![](https://img.shields.io/badge/Node.js-333?style=for-the-badge&logo=nodedotjs) ![](https://img.shields.io/badge/Electron.js-333?style=for-the-badge&logo=electron)
+![](https://img.shields.io/badge/Git-444?style=for-the-badge&logo=git) ![](https://img.shields.io/badge/AWS-444?style=for-the-badge&logo=amazonaws) ![](https://img.shields.io/badge/Node.js-444?style=for-the-badge&logo=nodedotjs) ![](https://img.shields.io/badge/Electron.js-444?style=for-the-badge&logo=electron&logoColor=white)
 
 ## Contacto
 

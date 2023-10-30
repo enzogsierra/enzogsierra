@@ -1,7 +1,7 @@
 # Hola! Soy Enzo 👋
 
-Recién graduado en **Analista de Sistemas** y gran apasionado del desarrollo web. Durante más de 2 años, he estado trabajando en muchos proyectos utilizando **Java Spring** como framework principal; desde el desarrollo inicial hasta su despliegue en **AWS**.
-Mi objetivo es seguir creciendo profesionalmente y poder aplicar mis habilidades en un entorno de trabajo colaborativo.
+**Analista de Sistemas** y **desarrollador web independiente** con más de 2 años de experiencia. Durante mi trayectoria realicé muchos proyectos académicos y trabajos para clientes utilizando **Java Spring** como framework principal, donde brindé soluciones profesionales y de calidad, pero sobre todo, generé seguridad y confianza con mis clientes superando sus expectativas.
+Mi objetivo es seguir creciendo profesionalmente en un equipo talentoso y dinámico.
 
 [<img src="https://img.shields.io/badge/portafolio%20personal-0A66C2?style=for-the-badge&logo=github&logoColor=white" style="height: 2rem;" alt="Portafolio personal"/>](https://enzogsierra.github.io/)
 
@@ -11,7 +11,7 @@ Mi objetivo es seguir creciendo profesionalmente y poder aplicar mis habilidades
 
 Amplio dominio de **Java** implementando **Spring Framework**, con gran experiencia en el desarrollo de aplicaciones webs profesionales. Donde también me encargo de:
 
-- Desarrollo de APIs y RESTful APIs
+- Desarrollo de RESTful APIs.
 - Tests unitarios
 - Microservicios
 - Mapeo de entidades, RDBMS/ORM
@@ -21,7 +21,7 @@ Amplio dominio de **Java** implementando **Spring Framework**, con gran experien
 
 ### 🎨 Frontend
 
-Habilidades para crear sitios web completos, aplicando las últimas tendencias para lograr un diseño intuitivo y elegante para los usuarios.
+Habilidades para crear sitios web completos, aplicando las últimas tendencias para lograr un diseño responsivo, intuitivo y elegante para los usuarios.
 
 ![](https://img.shields.io/badge/HTML-444?style=for-the-badge&logo=html5) ![](https://img.shields.io/badge/Thymeleaf-444?style=for-the-badge&logo=thymeleaf) ![](https://img.shields.io/badge/JavaScript-444?style=for-the-badge&logo=javascript) ![](https://img.shields.io/badge/JQuery-444?style=for-the-badge&logo=jquery) ![](https://img.shields.io/badge/Bootstrap-444?style=for-the-badge&logo=bootstrap) ![](https://img.shields.io/badge/CSS-444?style=for-the-badge&logo=css3) ![](https://img.shields.io/badge/SASS-444?style=for-the-badge&logo=sass) ![](https://img.shields.io/badge/React-444?style=for-the-badge&logo=react)
 
